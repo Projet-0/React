@@ -1,0 +1,15 @@
+.NavBarContainer {
+    /* display: flex; */
+    /* position: relative; */
+    /* flex-direction: row; */
+     margin-left: 5rem;
+    /* justify-items: center; */
+ 
+}
+
+.NavBar {
+    display: flex;
+    flex-direction: row;
+
+
+}
